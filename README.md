@@ -46,7 +46,6 @@ I-E-A-I-A-I-O/
 ├── terminal_player.py
 ├── ieaiaio.mp3
 ├── README.md
-└── requirements.txt
 ```
 
 > If you don't upload the MP3 to GitHub, the project can simply contain the Python source code and documentation. Users can provide their own legally obtained audio file locally.
